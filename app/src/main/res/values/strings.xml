@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ron Swanson Quiz</string>
+    <string name="question_deserted_island">You\'re stranded on a deserted island. What\'s ONE thing that you bring with you?</string>
+    <string name="question_burger">Select a burger:</string>
+    <string name="question_holiday_scam">What holiday is a scam? (Select all that apply)</string>
+    <string name="question_government">Why does the government matter?</string>
+    <string name="question_no_further">No further questions.</string>
+    <string name="question_desert_option1">Fishing net</string>
+    <string name="question_desert_option2">Knife</string>
+    <string name="question_desert_option3">Silence</string>
+    <string name="submit_button">Submit</string>
+    <string name="holiday_option1">Christmas</string>
+    <string name="holiday_option2">Valentine\'s Day</string>
+    <string name="holiday_option3">Birthday</string>
+    <string name="holiday_option4">Labor Day</string>
+    <string name="radio_beef_burger">Meat on a bun with nothing</string>
+    <string name="radio_turkey_burger">Turkey burger</string>
+    <string name="result_well_done">Well done, son!</string>
+    <string name="result_not_good_enough">Not good enough.</string>
+    <string name="result_failed">You failed.</string>
+    <string name="result">Your result is:</string>
+    <string name="start_over">Start Over</string>
+    <string name="it_doesnt">It doesn\'t</string>
+    <string name="it_doesnt2">It does not</string>
+</resources>
